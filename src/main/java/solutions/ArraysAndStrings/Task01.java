@@ -3,13 +3,13 @@ package solutions.ArraysAndStrings;
 import java.util.HashSet;
 
 /**
- * Task: Find pair Sum
+ * Task: Find pair Sum<br/><br/>
  *
  * Description: Given an unsorted integer array, find a pair with the given sum in it.
  * The target number is given as "target". The function should return true if a pair
- * has been found, regardless of where it has been found.
+ * has been found, regardless of where it has been found.<br/><br/>
  *
- * Input: int[] nums - the array, int target - target sum
+ * Input: int[] nums - the array, int target - target sum<br/><br/>
  * Example Input: [1,2,5,4,7,8], 7
  */
 public class Task01 {
